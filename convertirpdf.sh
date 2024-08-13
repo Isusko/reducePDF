@@ -1,5 +1,5 @@
 #!/bin/bash
-#Isusko
+
 # Get a list of all .pdf files in the current directory
 files=$(ls *.pdf)
 
